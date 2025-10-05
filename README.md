@@ -6,12 +6,7 @@ It performs basic arithmetic operations such as addition, subtraction, multiplic
 ---
 
 ## 🚀 Live Demo
-🔗 [View the Calculator](https://yourusername.github.io/Calculator/)
-
----
-
-## 📸 Screenshot
-(Add a screenshot of your calculator UI here if you want, e.g. `![Calculator Screenshot](screenshot.png)`)
+🔗 [View the Calculator]( https://kalpana137.github.io/Calculator/)
 
 ---
 
