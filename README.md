@@ -29,4 +29,4 @@ It performs basic arithmetic operations such as addition, subtraction, multiplic
 ## ⚙️ How to Run Locally
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Calculator.git
+   git clone https://github.com/kalpana137/Calculator.git
