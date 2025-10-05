@@ -1,4 +1,4 @@
-# 🧮 Simple Calculator
+#  Simple Calculator
 
 A responsive and clean **Calculator Web App** built using **HTML, CSS, and JavaScript**.  
 It performs basic arithmetic operations such as addition, subtraction, multiplication, division, and percentage.
